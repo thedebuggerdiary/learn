@@ -1,0 +1,44 @@
+[submodule "learn_gdb"]
+	path = learn_gdb
+	url = https://github.com/thedebuggerdiary/learn_gdb.git
+	branch = main
+[submodule "learn_android"]
+	path = learn_android
+	url = https://github.com/thedebuggerdiary/learn_android.git
+	branch = main
+[submodule "learn_flatbuffer"]
+	path = learn_flatbuffer
+	url = https://github.com/thedebuggerdiary/learn_flatbuffer.git
+	branch = main
+[submodule "learn_flutter"]
+	path = learn_flutter
+	url = https://github.com/thedebuggerdiary/learn_flutter.git
+	branch = main
+[submodule "learn_dart"]
+	path = learn_dart
+	url = https://github.com/thedebuggerdiary/learn_dart.git
+	branch = main
+[submodule "learn_typescript"]
+	path = learn_typescript
+	url = https://github.com/thedebuggerdiary/learn_typescript.git
+	branch = main
+[submodule "learn_go"]
+	path = learn_go
+	url = https://github.com/thedebuggerdiary/learn_go.git
+	branch = main
+[submodule "learn_python"]
+	path = learn_python
+	url = https://github.com/thedebuggerdiary/learn_python.git
+	branch = main
+[submodule "learn_kotlin"]
+	path = learn_kotlin
+	url = https://github.com/thedebuggerdiary/learn_kotlin.git
+	branch = main
+[submodule "learn_grpc"]
+	path = learn_grpc
+	url = https://github.com/thedebuggerdiary/learn_grpc.git
+	branch = main
+[submodule "learn_protobuf"]
+	path = learn_protobuf
+	url = https://github.com/thedebuggerdiary/learn_protobuf.git
+	branch = main
